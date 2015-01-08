@@ -8,6 +8,12 @@ But no need to fret! It isn't difficult to add it back.
 
 ## Install
 
+##### [Alcatraz](https://github.com/supermarin/Alcatraz)
+- Simply search for *Xcode Empty Application Template*.
+- Click on the icon on the left to install.
+- Restart Xcode.
+
+
 ##### Manually
 - Clone or download the repo. 
 - Copy the `Empty Application.xctemplate` directory to the following location.
