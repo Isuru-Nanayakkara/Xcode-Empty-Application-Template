@@ -16,10 +16,7 @@ But no need to fret! It isn't difficult to add it back.
 
 ##### Manually
 - Clone or download the repo. 
-- Copy the `Empty Application.xctemplate` directory to the following location.
-
-`{Xcode.app}/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application/`
-
+- Copy the `Empty Application.xctemplate` directory to the following location, `{Xcode.app}/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application/`.
 - Restart Xcode.
 
 
