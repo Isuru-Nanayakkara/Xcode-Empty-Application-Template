@@ -43,11 +43,11 @@ return YES;
 					<key>Definitions</key>
 					<dict>
 						<key>AppDelegate.swift:implementation:methods:applicationdidFinishLaunchingWithOptions:body</key>
-						<string>self.window = UIWindow(frame: UIScreen.mainScreen().bounds)
+						<string>self.window = UIWindow(frame: UIScreen.main.bounds)
 // Override point for customization after application launch.
 // TODO: Substitute UIViewController with your own subclass.
 self.window!.rootViewController = UIViewController()
-self.window!.backgroundColor = UIColor.whiteColor()</string>
+self.window!.backgroundColor = .white</string>
 						<key>AppDelegate.swift:implementation:methods:applicationdidFinishLaunchingWithOptions:return</key>
 						<string>self.window!.makeKeyAndVisible()
 return true
